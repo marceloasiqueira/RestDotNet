@@ -11800,11 +11800,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\86017594168\\Desktop\\Arquivos\\udemy\\RestDotNet\\RestDotNet\\RestDotNet\\RestDotNet.csproj",
+      "projectUniqueName": "C:\\Users\\86017594168\\Desktop\\Arquivos\\udemy\\RestDotNet\\RestDotNet - Calc\\RestDotNet\\RestDotNet.csproj",
       "projectName": "RestDotNet",
-      "projectPath": "C:\\Users\\86017594168\\Desktop\\Arquivos\\udemy\\RestDotNet\\RestDotNet\\RestDotNet\\RestDotNet.csproj",
+      "projectPath": "C:\\Users\\86017594168\\Desktop\\Arquivos\\udemy\\RestDotNet\\RestDotNet - Calc\\RestDotNet\\RestDotNet.csproj",
       "packagesPath": "C:\\Users\\86017594168\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\86017594168\\Desktop\\Arquivos\\udemy\\RestDotNet\\RestDotNet\\RestDotNet\\obj\\",
+      "outputPath": "C:\\Users\\86017594168\\Desktop\\Arquivos\\udemy\\RestDotNet\\RestDotNet - Calc\\RestDotNet\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
