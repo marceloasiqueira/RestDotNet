@@ -8,7 +8,7 @@ namespace RestDotNet.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
-    public class ValuesController : ControllerBase
+    public class PersonsController : ControllerBase
     {
         // GET api/values
         [HttpGet]
